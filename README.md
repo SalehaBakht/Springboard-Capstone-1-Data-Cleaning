@@ -1,6 +1,6 @@
 # Section 5 Submission - Data Cleaning of Chocolate Rating Dataset from Kaggle
 
-The purpose of the sectoin 5 submission is to practice data wrangling and cleaning. I did this on the Chocolate Bar Rating dataset gotten from one of the Kaggle competitions.
+The purpose of the section 5 submission is to practice data wrangling and cleaning. I did this on the Chocolate Bar Rating dataset gotten from one of the Kaggle competitions.
 
 First I replaced all the column names so that there were no line breaks in the names.
 
